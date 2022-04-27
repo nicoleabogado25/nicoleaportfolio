@@ -1,0 +1,115 @@
+* {
+	font-family: "Roboto", sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+h1, h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+img {
+	height: 250px;
+	width: 250px;
+}
+
+li {
+	margin-top: .1rem;
+	margin-bottom: .1rem;
+}
+
+dd {
+	margin-top: .1rem;
+	margin-bottom: .1rem;
+}
+
+dt {
+	margin-top: 1rem;
+	margin-bottom: .1rem;
+}
+
+
+#landing {
+	height: 85vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#contact {
+	height: 95vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#gallery {
+	height: 95vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#workexperience {
+	height: 95vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#education {
+	height: 95vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	overflow-x:hidden;
+}
+
+.c1 {
+	border: 5px solid #f2f2f2;
+	margin: 20px;
+	padding: 25px;
+	height: 250px;
+	width: 75%;
+}
+
+.c1-1 {
+	padding: 25px;
+}
+
+.c2 {
+	border: 5px solid #f2f2f2;
+	margin: 20px;
+	padding: 35px;
+	height: 250px;
+	width: 75%;
+}
+
+.c2-1 {
+	padding: 25px;
+}
+
+.c3 {
+	padding: 20px;
+	height: 400px;
+	width: 75%;
+}
+
+.c31 {
+	margin-top: -0.25rem !important;
+	padding-top: 30px;
+}
+
+.c4 {
+	padding: 20px;
+	height: 550px;
+	width: 75%;
+
+}
